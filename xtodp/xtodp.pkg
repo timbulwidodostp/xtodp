@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'xtodp': Conditional Poisson regression for time-stratified case-crossover analysis Use xtodp With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f mkcco.ado
+f mkcco.sthlp
+f xtodp.ado
+f xtodp.sthlp
