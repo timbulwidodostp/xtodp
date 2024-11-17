@@ -3,6 +3,8 @@ Conditional Poisson regression for time-stratified case-crossover analysis Use x
 
 Postestimation command to correct estimates standard errors' for overdispersion after xtpoisson Use xtodp With STATA 18
 
+https://www.youtube.com/watch?v=dWnq8tMj7kE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
